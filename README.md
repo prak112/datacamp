@@ -10,3 +10,10 @@
 - Related to building analysis around Bitcoin, S&P500 & Gold:
     - Assess Risk and Volatility of including in Fund Portfolio compared to S&P500
     - Hedging against Inflation instead/together with Gold
+
+
+## Project 2
+### [Abalone Age Prediction](https://github.com/prak112/datacamp/blob/95224f5db610bb6dcdd6bc2b0b48a0882dcb53c2/abalone-ageprediction)
+- Related to Predictive Modeling using Multiple Linear Regression
+    - Identify important features influencing aging of Abalone, such as physical appearance & weight.
+    - Predict age of Abalone by splitting dataset (train, test) 
