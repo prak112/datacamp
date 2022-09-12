@@ -13,9 +13,13 @@ Investment in Bitcoin is a highly volatile investment, poses risk to the Fund an
 ### *Experimental View (HA)*
 Investment in Bitcoin is an opportunity for Fund growth, given risks are minimized and adds value to the existing portfolio
 <br></br>
-# Declaration
-Any possible wrong calculation/interpretation of analysis is not intended. I am here to learn. Any constructive feedback would be appreciated.
-<br></br>
+
+# Libraries
+- **pandas** : for preprocessing and analysis
+- **matplotlib & seaborn** : for visualisation and analysis
+- **statsmodels.api**  : for regression analysis
+</br></br>
+
 # Approach
 1. Calculate Difference and Mean for daily stock prices
 2. Risk Analysis of Bitcoin inclusion in the portfolio by calculating:
@@ -24,3 +28,7 @@ Any possible wrong calculation/interpretation of analysis is not intended. I am 
     - Asset Volatility
     - Correlation analysis between Assets and Inflation
 3. Conclude whether or not to include Bitcoin in portfolio based on Risk Analysis
+<br></br>
+
+# Declaration
+Any possible wrong calculation/interpretation of analysis is not intended. I am here to learn. Any constructive feedback would be appreciated.
