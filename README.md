@@ -18,7 +18,7 @@
     - Identify important features influencing aging of Abalone, such as physical appearance & weight.
     - Predict age of Abalone by splitting dataset (train, test) 
 
-# Project 3
+## Project 3
 ### [Probability Simulations](https://github.com/prak112/datacamp/blob/7ef5e33b963a2619eb74be9fcd7f58e442a3b877/probability-simulations)
 - Monty Hall simulation (explained inside notebook)
 - Crazy Lawn Mower simulation (explained inside notebook)
